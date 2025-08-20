@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @diegoliveira7322
-- 👀 I’m interested in HTML
 @diegozx.23 INSTAGRAM
 
 
