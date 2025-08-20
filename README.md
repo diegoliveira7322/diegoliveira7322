@@ -5,7 +5,7 @@
 
 <!-- GIF de boas-vindas -->
 <div align="center">
-  <img src="" width="600" height="400" />
+  <img src="https://github.com/diegoliveira7322/diegoliveira7322/blob/main/giphy.gif" width="600" height="400" />
 </div>
 
 
