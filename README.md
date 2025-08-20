@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="" width="800" height="250" />
+  <img src="https://github.com/diegoliveira7322/diegoliveira7322/blob/main/D1EGOOO.png" width="800" height="250" />
 </div>
 
 <!-- GIF de boas-vindas -->
