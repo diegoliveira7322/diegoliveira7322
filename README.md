@@ -5,7 +5,7 @@
 
 <!-- GIF -->
 <div align="center">
-  <img src="https://github.com/diegoliveira7322/diegoliveira7322/blob/main/" width="600" height="350" />
+  <img src="https://github.com/diegoliveira7322/diegoliveira7322/blob/main/ANTAGONIST.GIF.gif" width="600" height="350" />
 </div>
 
 <!-- Texto animado -->
